@@ -1,0 +1,7 @@
+mdalnd
+<<<<<<< HEAD
+
+this second line this.
+=======
+totally different 2nd line
+>>>>>>> fix
