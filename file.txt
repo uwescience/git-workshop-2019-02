@@ -1,0 +1,2 @@
+newfile
+second line in newfile
