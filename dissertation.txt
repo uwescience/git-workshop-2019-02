@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-flajnelfna
-=======
-kdjnaklfnalnfdal
->>>>>>> fix
+
+added figures
