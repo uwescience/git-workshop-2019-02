@@ -1,4 +1,5 @@
 my phd file
+<<<<<<< HEAD
 another one
 add FIGURES
 yet another one
@@ -6,3 +7,12 @@ yet another one
 yet another one
 OH YES, yet another one
 yet another one
+=======
+another one 
+add FIGURES
+yet ANOTHER one 
+yet another one 
+yet another one 
+OH YES, yet another one 
+yet another one 
+>>>>>>> feature2
