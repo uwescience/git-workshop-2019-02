@@ -1,2 +1,3 @@
 newfile
 second line in newfile
+third line in newfile
